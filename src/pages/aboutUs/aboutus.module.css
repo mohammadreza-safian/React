@@ -1,0 +1,22 @@
+.aboutPage{
+    text-align: center;
+}
+.aboutPage h2{
+    margin: 20px 0;
+    text-align: left;
+}
+.aboutPage p{
+    text-align: justify;
+    line-height: 1.5;
+}
+.aboutPage img{
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.aboutPage h5{
+    margin: 20px 0;
+    color: blue;
+    font-size: 18px;
+}

@@ -1,0 +1,19 @@
+.headerWrraper{
+    box-shadow: 0 3px 5px rgb(173, 173, 173);
+
+}
+.header{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    
+}
+.header ul{
+    display: flex;
+    margin-left: auto;
+}
+.header ul li{
+    margin-right: 20px;
+    
+}

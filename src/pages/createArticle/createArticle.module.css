@@ -1,0 +1,36 @@
+.createArticlePage{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 40px 0;
+}
+.inputWrapper{
+    margin-bottom: 20px;
+}
+.inputWrapper label{
+    display: block;
+    margin: 8px 0;
+    font-size: 18px;
+}
+
+.inputWrapper input{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+}
+.createArticlePage h1{
+    margin-bottom: 30px;
+}
+
+
+.buttonWrapper button{
+    padding: 8px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+}
+.buttonWrapper button:active{
+    opacity: 0.8;
+}
